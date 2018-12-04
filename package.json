@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/rlajmi24/roadDiver/issues"
   },
-  "homepage": "https://github.com/rlajmi24/roadDiver#readme"
+  "homepage": "https://github.com/rlajmi24/roadDiver#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http-module": "0.0.5",
+    "http-server": "^0.11.1",
+    "node": "^11.2.0"
+  }
 }
